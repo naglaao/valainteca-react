@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/valainteca-react/static/css/main.02f96a34.css",
+    "main.js": "/valainteca-react/static/js/main.38943801.js",
+    "static/media/bg.png": "/valainteca-react/static/media/bg.d4a333936e8d9d14fc12.png",
+    "index.html": "/valainteca-react/index.html",
+    "main.02f96a34.css.map": "/valainteca-react/static/css/main.02f96a34.css.map",
+    "main.38943801.js.map": "/valainteca-react/static/js/main.38943801.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f96a34.css",
+    "static/js/main.38943801.js"
+  ]
+}
